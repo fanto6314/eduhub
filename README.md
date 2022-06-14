@@ -1,34 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br />
+<p align="center">
+  <a href="https://github.com/fanto6314/eduhub">
+    <a href="github/fanto6314/eduhub"><img src="https://img.shields.io/badge/Version-V1.9.4-green?style=flat" alt="Version" /></a>
+    <a href="https://www.codefactor.io/repository/github/fanto6314/eduhub"><img src="https://www.codefactor.io/repository/github/fanto6314/eduhub/badge?s=a2aa304d74b7e8dc389925e890fb2d8795395b02" alt="CodeFactor" /></a>
+    <a href="github/fanto6314/eduhub"><img src="https://img.shields.io/badge/Owner-anto6314-limegreen?style=flat" alt="Version" /></a>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/fanto6314/BlackJack">
+    <img src="https://i.imgur.com/lyukTLy.png" alt="Logo" width="226" height="226">
+  </a>
 
-## Getting Started
+  <h3 align="center">eduhub</h3>
 
-First, run the development server:
+  <p align="center">
+    An Educational Platform
+    <br />
+    <br />
+    <a href="https://github.com/fanto6314/eduhub/issues">Report Problems</a>
+  </p>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## About The Project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is a project of an educational platform where users can create and join others "workspaces",
+<br />
+and upload files to each workspace to share them with others group members.
+<br />
+You can use use this as you wish.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Built With
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+* Next.js
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* Frontend ([@fanto6314](https://github.com/fanto6314/))
+* * Chakra UI
+* * Material UI
+* * Tailwindcss
+* Backend ([@ThomasTopuz](https://github.com/ThomasTopuz/))
+* * Docker
+* * 
 
-## Learn More
+## Contact
 
-To learn more about Next.js, take a look at the following resources:
+anto6314 - antonio.foresta04@gmail.com
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Project Link: https://github.com/fanto6314/eduhub
