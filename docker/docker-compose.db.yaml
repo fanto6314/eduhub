@@ -1,0 +1,21 @@
+version: "3.7"
+
+services:
+  db:
+    platform: linux/amd64
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+    volumes:
+      - ./initdb:/docker-entrypoint-initdb.d/:ro
+    ports:
+      - 3306:3306
+
+  adminer:
+    platform: linux/amd64
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080

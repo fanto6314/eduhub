@@ -1,0 +1,53 @@
+{
+    "name": "eduhub",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@chakra-ui/icons": "^1.1.7",
+        "@chakra-ui/react": "^1.8.6",
+        "@emotion/react": "^11.8.1",
+        "@emotion/styled": "^11.8.1",
+        "@google-cloud/pubsub": "^2.19.4",
+        "@material-ui/lab": "^4.0.0-alpha.61",
+        "@mui/icons-material": "^5.8.2",
+        "@mui/material": "^5.8.1",
+        "@mui/x-data-grid": "^5.11.1",
+        "aws-sdk": "^2.1151.0",
+        "axios": "^0.26.1",
+        "bcryptjs": "^2.4.3",
+        "formik": "^2.2.9",
+        "framer-motion": "^6.2.8",
+        "fs": "^0.0.1-security",
+        "http-status-codes": "^2.2.0",
+        "i": "^0.3.7",
+        "material-ui-image": "^3.3.2",
+        "mysql2": "^2.3.3",
+        "net": "^1.0.2",
+        "next": "12.1.6",
+        "next-auth": "4.3.4",
+        "next-connect": "^0.12.2",
+        "npm": "^8.6.0",
+        "paper": "^0.12.15",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-icons": "^4.3.1",
+        "sequelize": "^6.19.0",
+        "simplebar-react": "^2.4.1",
+        "tls": "^0.0.1",
+        "uuid": "^8.3.2",
+        "yup": "^0.32.11"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.7",
+        "eslint": "8.10.0",
+        "eslint-config-next": "12.1.0",
+        "postcss": "^8.4.14",
+        "tailwindcss": "^3.0.24"
+    }
+}
