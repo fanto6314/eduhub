@@ -3,7 +3,7 @@
   <a href="https://github.com/fanto6314/eduhub">
     <a href="github/fanto6314/eduhub"><img src="https://img.shields.io/badge/Version-V1.9.4-green?style=flat" alt="Version" /></a>
     <a href="https://www.codefactor.io/repository/github/fanto6314/eduhub"><img src="https://www.codefactor.io/repository/github/fanto6314/eduhub/badge?s=a2aa304d74b7e8dc389925e890fb2d8795395b02" alt="CodeFactor" /></a>
-    <a href="github/fanto6314/eduhub"><img src="https://img.shields.io/badge/Owner-anto6314-limegreen?style=flat" alt="Version" /></a>
+    <a href="github/fanto6314/eduhub"><img src="https://img.shields.io/badge/Owner-anto6314%20&%20Thomas-limegreen?style=flat" alt="Version" /></a>
   </a>
 </p>
 <p align="center">
